@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # GameBox
 Proyecto personal para mostrar informacion de videojuegos con la API de RAWG
 =======
